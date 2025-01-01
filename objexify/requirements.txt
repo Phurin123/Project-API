@@ -1,3 +1,4 @@
+pip install --upgrade pip
 flask==2.0.1
 flask-cors==2.1.1
 ultralytics==8.0.0
